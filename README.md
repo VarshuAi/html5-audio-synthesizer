@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Fully functional soundboard generating customized sound frequencies.
+  name: html5-audio-synthesizer version: 1.0 type: Repository author: VarshuAi description: >   Fully functional soundboard generating customized sound frequencies. primary_tech: CSS
 primary_tech: CSS
 ```
 
